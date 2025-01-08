@@ -4,6 +4,6 @@ Data Got Talent - Final Business Challenge - WA TAB's Wagering Operations Analys
 This is the Final Business Challenge for Data-Got-Talent-Competition-2023 in Danang University of Education by our team with 5 members.
 My duties: Data cleaning, EDA, Data analytics, Design dashboard
 
-# Technical stack:
+** Technical stack:
 * Python
 * Power BI
